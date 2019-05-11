@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1518631612 source:c:\i\work\textbooks\podstawy_programowania_w_jezyku_c_cwiczenia_laboratoryjne\4 - proste programy strukturalne\4.14\b\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funkcje.h"
+
+1518631892 c:\i\work\textbooks\podstawy_programowania_w_jezyku_c_cwiczenia_laboratoryjne\4 - proste programy strukturalne\4.14\b\funkcje.h
+
