@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1553892998 source:c:\i\work\textbooks\podstawy_programowania_w_jezyku_c_cwiczenia_laboratoryjne\14. pliki\14.3\test\14.3\main.c
+	<windows.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"data_input.h"
+
+1553892998 c:\i\work\textbooks\podstawy_programowania_w_jezyku_c_cwiczenia_laboratoryjne\14. pliki\14.3\test\14.3\data_input.h
+
